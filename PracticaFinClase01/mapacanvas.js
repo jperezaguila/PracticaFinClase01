@@ -1,1 +1,1 @@
-﻿var canva
+﻿var canvas = document.getElementById("canvas");
